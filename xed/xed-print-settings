@@ -1,0 +1,17 @@
+[Print Settings]
+page-set=all
+number-up=1
+cups-job-priority=50
+cups-number-up=1
+cover-before=
+print-pages=all
+collate=false
+print-at-time=
+output-bin=face-down
+cups-sides=two-sided-long-edge
+reverse=false
+cover-after=
+print-at=now
+printer=Brother-DCP-L2550DW-series
+scale=100
+cups-output-bin=face-down
