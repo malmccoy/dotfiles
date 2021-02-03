@@ -12,7 +12,7 @@
   </editor>
   <locale>
     <special/>
-  <special>None</special></locale>
+  <special>None</special><special>None</special><special>None</special><special>None</special><special>None</special><special>None</special><special>None</special><special>None</special></locale>
   <modmgr>
     <mod_mgr_source>1</mod_mgr_source>
     <mod_mgr_destination>0</mod_mgr_destination>
@@ -24,14 +24,14 @@
     <basefontsize>+0</basefontsize>
   </fontsize>
   <HTMLcolors>
-    <background>#FFFFFF</background>
-    <text_fg>#000000</text_fg>
-    <versenum>#0000CF</versenum>
-    <currentverse>#009000</currentverse>
-    <link>#878787</link>
+    <background>#3C3B3B</background>
+    <text_fg>#BABDB6</text_fg>
+    <versenum>#E9B96E</versenum>
+    <currentverse>#EEEEEC</currentverse>
+    <link>#3465A4</link>
     <found>#D02898</found>
-    <highlight_fg>#FFFF00</highlight_fg>
-    <highlight_bg>#060680</highlight_bg>
+    <highlight_fg>#C4A000</highlight_fg>
+    <highlight_bg>#3465A4</highlight_bg>
   </HTMLcolors>
   <parallel>
     <parallel>1</parallel>
@@ -49,20 +49,20 @@
   <keys>
     <book>0</book>
     <dictionary>Grace</dictionary>
-    <verse>Rom 8:28</verse>
-  <offset></offset></keys>
+    <verse>Gen 1:1</verse>
+  <offset>0</offset><offset/></keys>
   <layout>
     <maximized>0</maximized>
-    <height>600</height>
-    <width>800</width>
-    <app_x>40</app_x>
-    <app_y>40</app_y>
+    <height>1026</height>
+    <width>1920</width>
+    <app_x>0</app_x>
+    <app_y>0</app_y>
     <parallelopen>0</parallelopen>
     <parallel_height>361</parallel_height>
     <parallel_width>657</parallel_width>
     <parallel_x>40</parallel_x>
     <parallel_y>40</parallel_y>
-    <modmgropen>1</modmgropen>
+    <modmgropen>0</modmgropen>
     <modmgr_height>450</modmgr_height>
     <modmgr_width>880</modmgr_width>
     <modmgr_x>747</modmgr_x>
@@ -73,17 +73,17 @@
     <advsearch_x>40</advsearch_x>
     <advsearch_y>40</advsearch_y>
     <prefsopen>0</prefsopen>
-    <prefs_height>300</prefs_height>
-    <prefs_width>590</prefs_width>
+    <prefs_height>435</prefs_height>
+    <prefs_width>805</prefs_width>
     <prefs_x>40</prefs_x>
     <prefs_y>40</prefs_y>
-    <textpane>368</textpane>
+    <textpane>947</textpane>
     <shortcutbar>200</shortcutbar>
     <uperpane>210</uperpane>
     <vltoppaneheight>210</vltoppaneheight>
-    <sidebar_notebook_height>350</sidebar_notebook_height>
+    <sidebar_notebook_height>686</sidebar_notebook_height>
     <bibleheight>250</bibleheight>
-    <commentaryheight>240</commentaryheight>
+    <commentaryheight>1026</commentaryheight>
   </layout>
   <lexicons>
     <indictpane>1</indictpane>
@@ -100,7 +100,7 @@
     <usedefault>1</usedefault>
     <formatpercom>1</formatpercom>
     <showcomms>1</showcomms>
-    <showdicts>1</showdicts>
+    <showdicts>0</showdicts>
     <showtexts>1</showtexts>
     <versestyle>1</versestyle>
     <pinnedtabs>0</pinnedtabs>
@@ -116,11 +116,11 @@
   <showpreview>1</showpreview><show_side_preview>1</show_side_preview><showparatab>0</showparatab><chapter-scroll>0</chapter-scroll><show_sidebar>1</show_sidebar><sidebar_docked>1</sidebar_docked><prayerlist>1</prayerlist><statusbar>1</statusbar><alternation>1</alternation></misc>
   <modules>
     <book/>
-    <comm/>
+    <comm>CalvinCommentaries</comm>
     <devotional/>
     <dict/>
     <parallels/>
-    <bible/>
+    <bible>KJVA</bible>
     <percomm/>
   </modules>
   <shortcutbar>
@@ -134,4 +134,4 @@
   <tabs>
     <browsing>1</browsing>
   </tabs>
-<locale/></Xiphos>
+<locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/></Xiphos>

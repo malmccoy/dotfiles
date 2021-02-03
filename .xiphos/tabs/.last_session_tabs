@@ -1,4 +1,7 @@
 <?xml version="1.0"?>
 <Xiphos_Tabs Version="4.2.0">
-  <tabs/>
+  <tabs>
+    <tab text_mod="KJVA" commentary_mod="CalvinCommentaries" dictlex_mod="" book_mod="Institutes" text_commentary_key="Gen 1:1" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="no" showparallel="no"/>
+    <tab text_mod="KJV" commentary_mod="CalvinCommentaries" dictlex_mod="" book_mod="Institutes" text_commentary_key="Gen 1:1" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="no" showparallel="no"/>
+  </tabs>
 </Xiphos_Tabs>
